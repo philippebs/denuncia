@@ -1,0 +1,4 @@
+# Iniciando o sistema
+## Atualizar a chave <geolocation.key> para uma chave válida para buscar os endereços de geolocalização.
+
+# O sistema está utilizando um banco de dados h2 em desenvolvimento para facilitar o desenvolvimento.
